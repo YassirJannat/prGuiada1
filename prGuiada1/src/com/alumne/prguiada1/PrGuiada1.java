@@ -16,7 +16,7 @@ bw.newLine();
 bw.write(" </title>");bw.newLine();
 bw.write(" </head>");bw.newLine();
 bw.write(" <body>");bw.newLine();
-bw.write(" Projecte inicial yassir j");
+bw.write(" Projecte inicial");
 bw.newLine();
 bw.write(" </body>");bw.newLine();
 bw.write("</html>");bw.newLine();
